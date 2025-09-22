@@ -1,0 +1,101 @@
+# Project Dependencies - Vighnesh Bhati Portfolio
+# Generated from package.json
+
+## Production Dependencies
+@emailjs/browser@^4.4.1
+@gsap/react@^2.1.1
+@radix-ui/react-dialog@^1.1.1
+@radix-ui/react-dropdown-menu@^2.1.1
+@radix-ui/react-label@^2.1.0
+@radix-ui/react-popover@^1.1.1
+@radix-ui/react-scroll-area@^1.1.0
+@radix-ui/react-slot@^1.1.0
+@radix-ui/react-tabs@^1.1.0
+@radix-ui/react-toast@^1.2.1
+@radix-ui/react-tooltip@^1.1.2
+@splidejs/react-splide@^0.7.12
+@splinetool/react-spline@^4.0.0
+@splinetool/runtime@^1.9.3
+class-variance-authority@^0.7.0
+clsx@^2.1.1
+devtools-detector@^2.0.22
+embla-carousel-react@^8.1.8
+framer-motion@^11.3.17
+gsap@^3.12.5
+lenis@^1.1.6
+lucide-react@^0.416.0
+next@^14.2.32
+next-themes@^0.3.0
+react@^18
+react-dom@^18
+react-icons@^5.2.1
+resend@^4.0.0
+sass@^1.77.8
+socket.io-client@^4.7.5
+tailwind-merge@^2.4.0
+tailwindcss-animate@^1.0.7
+three@^0.167.1
+zod@^3.23.8
+
+## Development Dependencies
+@types/node@^20
+@types/react@^18
+@types/react-dom@^18
+@types/three@^0.167.1
+eslint@^8
+eslint-config-next@14.2.3
+postcss@^8
+tailwindcss@^3.4.1
+typescript@^5
+
+## Installation Commands
+
+# Install all dependencies
+npm install
+
+# Or install specific packages
+npm install @emailjs/browser@^4.4.1
+npm install @gsap/react@^2.1.1
+npm install @radix-ui/react-dialog@^1.1.1
+npm install @radix-ui/react-dropdown-menu@^2.1.1
+npm install @radix-ui/react-label@^2.1.0
+npm install @radix-ui/react-popover@^1.1.1
+npm install @radix-ui/react-scroll-area@^1.1.0
+npm install @radix-ui/react-slot@^1.1.0
+npm install @radix-ui/react-tabs@^1.1.0
+npm install @radix-ui/react-toast@^1.2.1
+npm install @radix-ui/react-tooltip@^1.1.2
+npm install @splidejs/react-splide@^0.7.12
+npm install @splinetool/react-spline@^4.0.0
+npm install @splinetool/runtime@^1.9.3
+npm install class-variance-authority@^0.7.0
+npm install clsx@^2.1.1
+npm install devtools-detector@^2.0.22
+npm install embla-carousel-react@^8.1.8
+npm install framer-motion@^11.3.17
+npm install gsap@^3.12.5
+npm install lenis@^1.1.6
+npm install lucide-react@^0.416.0
+npm install next@^14.2.32
+npm install next-themes@^0.3.0
+npm install react@^18
+npm install react-dom@^18
+npm install react-icons@^5.2.1
+npm install resend@^4.0.0
+npm install sass@^1.77.8
+npm install socket.io-client@^4.7.5
+npm install tailwind-merge@^2.4.0
+npm install tailwindcss-animate@^1.0.7
+npm install three@^0.167.1
+npm install zod@^3.23.8
+
+# Development dependencies
+npm install -D @types/node@^20
+npm install -D @types/react@^18
+npm install -D @types/react-dom@^18
+npm install -D @types/three@^0.167.1
+npm install -D eslint@^8
+npm install -D eslint-config-next@14.2.3
+npm install -D postcss@^8
+npm install -D tailwindcss@^3.4.1
+npm install -D typescript@^5
